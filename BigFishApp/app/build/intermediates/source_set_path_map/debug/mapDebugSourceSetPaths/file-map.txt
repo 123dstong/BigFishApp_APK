@@ -1,0 +1,7 @@
+com.codex.bigfish.app-pngs-0 D:\OpenCodeProject\BigFishApp-source\BigFishApp\app\build\generated\res\pngs\debug
+com.codex.bigfish.app-resValues-1 D:\OpenCodeProject\BigFishApp-source\BigFishApp\app\build\generated\res\resValues\debug
+com.codex.bigfish.app-packageDebugResources-2 D:\OpenCodeProject\BigFishApp-source\BigFishApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.codex.bigfish.app-packageDebugResources-3 D:\OpenCodeProject\BigFishApp-source\BigFishApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.codex.bigfish.app-debug-4 D:\OpenCodeProject\BigFishApp-source\BigFishApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.codex.bigfish.app-debug-5 D:\OpenCodeProject\BigFishApp-source\BigFishApp\app\src\debug\res
+com.codex.bigfish.app-main-6 D:\OpenCodeProject\BigFishApp-source\BigFishApp\app\src\main\res

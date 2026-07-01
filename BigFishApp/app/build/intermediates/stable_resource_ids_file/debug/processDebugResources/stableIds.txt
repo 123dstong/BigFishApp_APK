@@ -1,0 +1,5 @@
+com.codex.bigfish:xml/data_extraction_rules = 0x7f040001
+com.codex.bigfish:xml/backup_rules = 0x7f040000
+com.codex.bigfish:style/AppTheme = 0x7f030000
+com.codex.bigfish:string/app_name = 0x7f020000
+com.codex.bigfish:drawable/ic_launcher = 0x7f010000

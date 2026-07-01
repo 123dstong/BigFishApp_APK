@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.codex.bigfish.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "D:\\OpenCodeProject\\BigFishApp-source\\BigFishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "42",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                },
+                {
+                    "source": "D:\\OpenCodeProject\\BigFishApp-source\\BigFishApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "387"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "98",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "469"
+                    }
+                }
+            ]
+        }
+    ]
+}
